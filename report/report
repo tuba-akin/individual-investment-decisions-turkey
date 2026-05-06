@@ -1,0 +1,43 @@
+ÇALIŞMA RAPORU
+
+Belirsizlik Ortamında Bireysel Yatırım Kararları
+Bu rapor, Türkiye’de düzenli geliri olan bireysel yatırımcı açısından 3–5 yıllık vadede daha mantıklı ve daha dayanıklı bir yatırım karar çerçevesi kurmak amacıyla hazırlanmıştır. Çalışmanın odağı tek bir “en iyi araç” bulmak değil; enflasyon, faiz, kur ve piyasa ayrışmalarını birlikte okuyarak karar vermeyi kolaylaştıran bir yaklaşım önermektir.
+
+1. Problem Tanımı ve Çalışmanın Amacı
+Çalışmanın çıkış noktası, son yıllarda yatırım kararının yalnızca getiri arayışına indirgenemeyecek kadar karmaşık hale gelmiş olmasıdır. Yüksek enflasyon, değişken faiz ortamı, kur oynaklığı ve jeopolitik baskılar aynı anda etkili olurken, bireysel yatırımcı için temel soru “en çok ne kazandırır?” olmaktan çıkmış; “hangi yaklaşım farklı koşullarda daha dayanıklı kalır?” sorusuna dönüşmüştür.
+Bu nedenle çalışma, yatırım tavsiyesi veren dar bir çerçeve yerine veri destekli bir karar mantığı kurmayı hedeflemiştir. Ana tez şudur: belirsizlik ortamında etkili yatırım kararı, tek bir varlığın seçilmesinden değil; ekonomik göstergeler, risk profili, yatırım ufku ve çeşitlendirme prensibini birlikte ele alan bir çerçeveden doğar.
+
+2. Kapsam, Dönem ve Kullanılan Veriler
+Analizde yaklaşık son beş yıllık dönem, yani 2021–2026 aralığı esas alınmıştır. Bu pencere özellikle seçilmiştir; çünkü yüksek enflasyon rejimi, faiz dönüşümü, kur hareketleri ve jeopolitik/enerji baskısı aynı dönemde birlikte gözlemlenebilmektedir. Böylece çalışma hem yakın dönem gerçekliğini yakalamış hem de 3–5 yıllık yatırım düşüncesine uygun bir referans üretmiştir.
+Makro görünümü kurmak için TÜFE yıllık ve aylık değişimleri, politika faizi ve TL mevduat faizi kullanılmıştır. Koruma ve büyüme araçlarını karşılaştırmak için USD/TRY, gram altın ve BIST100 analize dahil edilmiştir. Hisse tarafındaki ayrışmayı gösterebilmek için BIST Gıda, BIST Kimya ve BIST Ulaştırma endeksleri eklenmiştir. Piyasa stresi ve dışsal baskıyı daha iyi okumak için Brent petrol ve 5 yıllık tahvil faizi de destekleyici gösterge olarak kullanılmıştır.
+Kullanılan ana veri kaynakları
+•	TCMB ve EVDS: TÜFE, politika faizi, mevduat faizi, USD/TRY ve gram altın serileri
+•	Borsa İstanbul ve Investing tarihsel veri sayfaları: BIST100, Brent petrol ve sektör endeksleri
+
+3. Veri Hazırlama ve Analiz Yöntemi
+Çalışma, ham verilerin tek tek indirilmesi ve ardından ortak bir zaman ekseninde birleştirilmesiyle ilerlemiştir. Farklı kaynaklardan gelen seriler tarih formatı, frekans ve sütun isimleri açısından standardize edilmiş; tekrar eden, eksik veya teknik olarak problemli kayıtlar temizlenmiştir. Böylece analizler tek bir aylık veri seti üzerinden yürütülmüştür.
+Yöntem tarafında ağır ve savunması zor finansal modellemeler yerine, karar üretmeye elverişli ve kolay açıklanabilir teknikler tercih edilmiştir. Temel yaklaşım; trend analizi, göreli performans karşılaştırması, yaklaşık reel getiri yorumu, oynaklık karşılaştırması ve sektör bazlı ayrışma üzerinden ilerlemiştir. Amaç, her analiz çıktısını doğrudan “bu karar verene ne anlatıyor?” sorusuna bağlamaktır.
+Grafikleri seçerken izlenen mantık
+•	Makro grafik: yatırım kararının verildiği ekonomik zeminin sabit olmadığını göstermek için
+•	Reel getiri grafiği: nominal getiri ile satın alma gücünü korumanın aynı şey olmadığını göstermek için
+•	Ana varlıklar grafiği: dolar, altın ve hisse tarafının aynı dönemde aynı davranmadığını göstermek için
+•	Sektör grafiği: BIST100 içinde bile tek blok düşünmenin yanıltıcı olabileceğini göstermek için
+
+
+4. Temel Bulgular
+Makro görünüm
+Enflasyon, politika faizi ve mevduat faizi birlikte okunduğunda yatırım kararının kurulduğu zeminin sabit olmadığı görülmüştür. Aynı dönemde üç seri farklı hızlarda hareket etmiş; bu da yatırımcının kararını tek bir ekonomik koşula göre veremeyeceğini göstermiştir.
+Reel koruma
+Mevduat tarafı bazı dönemlerde düşük oynaklık sunsa da, nominal getirinin enflasyonun altında kaldığı koşullarda satın alma gücünü tam koruyamamıştır. Bu bulgu, “güvenli görünmek” ile “reel olarak korumak” arasındaki farkı açık biçimde ortaya koymuştur.
+Ana yatırım araçları
+USD/TRY, gram altın ve BIST100’ün göreli performansı aynı dönemde belirgin biçimde ayrışmıştır. Bu sonuç, geçmiş performansa bakarak tek bir aracı “doğru cevap” ilan etmenin sağlıklı olmadığını, araçların dönemsel olarak farklı rol oynadığını göstermiştir.
+Sektör ayrışması
+BIST100 içindeki sektörlerin aynı dönemde farklı patikalar izlemesi, hisse tarafının da kendi içinde sepet mantığı gerektirdiğini göstermiştir. Başka bir ifadeyle, çeşitlendirme yalnızca varlık sınıfları arasında değil, aynı varlık sınıfının içinde de önemlidir.
+
+5. Yorum Çerçevesi
+Çalışmanın ürettiği sonuç tek bir varlık tavsiyesi değildir. Elde edilen bulgular, yatırım kararının koruma, büyüme, likidite ve dayanıklılık başlıklarının birlikte düşünülmesi gerektiğini göstermektedir. Bu nedenle analiz, riskten kaçınan, dengeli ve daha yüksek risk alabilen yatırımcı tipleri açısından yorumlanmıştır.
+Riskten kaçınan yatırımcı için ana mesele yalnızca düşük oynaklık değil, reel erimeyi de dikkate almaktır. Dengeli yatırımcı için temel ilke, koruma ile büyümeyi aynı yapıda buluşturmaktır. Daha fazla risk alabilen yatırımcı için ise büyüme potansiyeli korunurken, koruma katmanının tamamen terk edilmemesi önemlidir. Bu yorum, yüzdesel portföy dağıtımı dayatmak yerine düşünme çerçevesi kurmayı amaçlamaktadır.
+
+6. Sonuç
+Bu çalışmanın ana sonucu şudur: belirsizlik ortamında en rasyonel yaklaşım, tek bir kazanan varlığı aramak değil; farklı koşullarda daha dayanıklı kalabilecek, risk profiline uygun ve çeşitlendirilmiş bir yatırım mantığı kurmaktır.
+Özetle; makro zeminin değişken olduğu, nominal getirinin tek başına yeterli olmadığı, araçların aynı dönemde aynı davranmadığı ve hisse tarafında dahi sektör içi ayrışmanın görüldüğü bir ortamda, karar kalitesini artıran yaklaşım çeşitlendirme merkezli düşünmektir. Bu rapor, tam olarak bu nedenle, veri analizi ile yatırım mantığını birleştiren uygulanabilir bir çerçeve sunmaktadır.
